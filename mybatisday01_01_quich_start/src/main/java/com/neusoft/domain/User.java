@@ -1,8 +1,14 @@
-package main.java.com.neusoft.domain;
+package com.neusoft.domain;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class User {
+/**
+ * @author Eric Lee
+ * @date 2020/9/3 09:45
+ */
+public class User  implements Serializable {
+
     private Integer id;
     private String username;
     private Date birthday;
@@ -59,5 +65,4 @@ public class User {
                 ", address='" + address + '\'' +
                 '}';
     }
-
 }

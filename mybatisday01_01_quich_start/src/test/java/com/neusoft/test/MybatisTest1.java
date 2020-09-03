@@ -1,18 +1,22 @@
-package test.java.com.neusoft.test;
+package com.neusoft.test;
 
-import main.java.com.neusoft.dao.IUserDao;
-import main.java.com.neusoft.domain.User;
+import com.neusoft.dao.IUserDao;
+import com.neusoft.domain.User;
+import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.Test;
-import org.apache.ibatis.io.Resources;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
-import java.util.Random;
 
+/**
+ * @author Eric Lee
+ * @date 2020/9/3 10:13
+ */
 public class MybatisTest1 {
     @Test
     public void test1() throws IOException {
@@ -27,7 +31,7 @@ public class MybatisTest1 {
         IUserDao userDao = session.getMapper(IUserDao.class);
         // 5. 使用代理对象执行方法
         List<User> users = userDao.findAll();
-        for (User user : users) {
+        for(User user: users){
             System.out.println(user);
         }
         // 6 释放资源
@@ -36,4 +40,9 @@ public class MybatisTest1 {
 
 
     }
+
+
+
+
+
 }
