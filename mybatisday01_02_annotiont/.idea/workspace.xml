@@ -7,20 +7,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -35,7 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatisday01_02_annotiont" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,7 +43,7 @@
       <recent name="D:\untitled\java_ssm\mybatisday01_02_annotation\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MybatisTest2">
+  <component name="RunManager" selected="JUnit.MybatisTest1.test1">
     <configuration name="MybatisTest1.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatisday01_02_annotation" />
       <extension name="coverage">
@@ -90,18 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MybatisTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatisday01_02_annotiont" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MybatisTest2" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MybatisTest2" />
         <item itemvalue="JUnit.MybatisTest1.test1" />
         <item itemvalue="JUnit.MybatisTest1.test1 (1)" />
       </list>
@@ -134,7 +110,6 @@
       <workItem from="1599104027990" duration="5737000" />
       <workItem from="1599117776826" duration="387000" />
       <workItem from="1599118190023" duration="12000" />
-      <workItem from="1599118519953" duration="1869000" />
     </task>
     <servers />
   </component>
@@ -150,37 +125,37 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1599115025261" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1599118555219">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1599118009506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599118555219" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1599118693621">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599118009506" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1599118167486">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599118693621" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1599118693621">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599118167486" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1599118167486">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599118693621" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1599118693621">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599118167486" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1599118167486">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599118693621" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1599118693621">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599118167486" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1599118167486">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599118693621" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599118167486" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1599115695676">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599115695676" />
-    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1599118520031">
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1599118190013">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1599118520031" />
-    <state x="178" y="0" key="new project wizard" timestamp="1599118558756">
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1599118190013" />
+    <state x="178" y="0" key="new project wizard" timestamp="1599113891044">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="178" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1599118558756" />
+    <state x="178" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1599113891044" />
   </component>
 </project>

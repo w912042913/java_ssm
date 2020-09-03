@@ -1,8 +1,5 @@
-package com.neusoft.test;
-
 import com.neusoft.dao.IUserDao;
 import com.neusoft.domain.User;
-import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -13,13 +10,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
-/**
- * @author Eric Lee
- * @date 2020/9/3 10:13
- */
-public class MybatisTest1 {
+public class MybatisTest2 {
     @Test
-    public void test1() throws IOException {
+    public void test2() throws IOException {
         // 1. 读取配置文件
         InputStream in = Resources.getResourceAsStream("SqlMapConfig.xml");
         // 2. 创建 SqlSessionFactory工厂
@@ -40,9 +33,5 @@ public class MybatisTest1 {
 
 
     }
-
-
-
-
 
 }
