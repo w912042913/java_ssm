@@ -13,10 +13,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
-/**
- * @author Eric Lee
- * @date 2020/9/3 10:13
- */
+
 public class MybatisTest1 {
     @Test
     public void test1() throws IOException {
