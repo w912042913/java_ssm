@@ -5,6 +5,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../mybatisday01_02_annotiont/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatisday01_-03_dao_crud/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatisday_02_dao_crud_bieming/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatisday_02_01_emp/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatisday_02_02emp/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatisday_02_dao_crud_emp/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatisday_02_dao_crud_dynamic_sql/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

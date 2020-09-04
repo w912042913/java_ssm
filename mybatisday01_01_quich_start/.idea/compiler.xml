@@ -6,15 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybatisday_02_02emp" />
+        <module name="mybatisday_02_dao_crud_emp" />
+        <module name="ybatisday_02_dao_crud_dynamic_sql" />
         <module name="mybatisday01_01_quich_start" />
+        <module name="mybatisday01_-03_dao_crud" />
+        <module name="mybatisday_02_dao_crud_bieming" />
         <module name="mybatisday01_02_annotiont" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mybabatisday01_02_annotation" target="1.5" />
+      <module name="mybatisday01_-03_dao_crud" target="1.5" />
       <module name="mybatisday01_01_quich_start" target="1.5" />
       <module name="mybatisday01_02_annotation" target="1.5" />
       <module name="mybatisday01_02_annotiont" target="1.5" />
+      <module name="mybatisday_02_01_emp" target="1.5" />
+      <module name="mybatisday_02_02emp" target="1.5" />
+      <module name="mybatisday_02_dao_crud" target="1.5" />
+      <module name="mybatisday_02_dao_crud_bieming" target="1.5" />
+      <module name="mybatisday_02_dao_crud_emp" target="1.5" />
+      <module name="ybatisday_02_dao_crud_dynamic_sql" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

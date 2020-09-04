@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mybatisday01_-03_dao_crud/mybatisday01_-03_dao_crud.iml" filepath="$PROJECT_DIR$/../mybatisday01_-03_dao_crud/mybatisday01_-03_dao_crud.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisday01_01_quich_start.iml" filepath="$PROJECT_DIR$/mybatisday01_01_quich_start.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mybatisday01_02_annotiont/mybatisday01_02_annotiont.iml" filepath="$PROJECT_DIR$/../mybatisday01_02_annotiont/mybatisday01_02_annotiont.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatisday_02_02emp/mybatisday_02_02emp.iml" filepath="$PROJECT_DIR$/../mybatisday_02_02emp/mybatisday_02_02emp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatisday_02_dao_crud_bieming/mybatisday_02_dao_crud_bieming.iml" filepath="$PROJECT_DIR$/../mybatisday_02_dao_crud_bieming/mybatisday_02_dao_crud_bieming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatisday_02_dao_crud_emp/mybatisday_02_dao_crud_emp.iml" filepath="$PROJECT_DIR$/../mybatisday_02_dao_crud_emp/mybatisday_02_dao_crud_emp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatisday_02_dao_crud_dynamic_sql/ybatisday_02_dao_crud_dynamic_sql.iml" filepath="$PROJECT_DIR$/../mybatisday_02_dao_crud_dynamic_sql/ybatisday_02_dao_crud_dynamic_sql.iml" />
     </modules>
   </component>
 </project>
