@@ -27,6 +27,15 @@ public class Emp {
     private String logid;
     private String logpwd;
     private int mgrid;
+    private Date date;
+
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
 
     public int getEmpid() {
         return empid;

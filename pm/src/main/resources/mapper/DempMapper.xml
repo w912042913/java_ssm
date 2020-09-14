@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ttc.po.Emp">
+    <resultMap id="getEmpmo" type="com.ttc.po.Emp">
+        <id property="empid" column="empid"></id>
+        <result property="ename" column="ename"></result>
+        <association property="dept" javaType="com.ttc.po.Dept">
+            <id column="deptid" property="deptid"></id>
+            <result property="dname" column="dname"></result>
+        </association>
+    </resultMap>
+    <select id="getEmp" resultMap="getEmpmo" >
+select e.*,d.*
+from emp e
+inner join dept d
+on e.deptid = d.deptid
+where e.empid =11;
+    </select>
+    <select id="login" resultType="com.ttc.po.Emp" >
+        select  *  from emp where  empid = 1
+    </select>
+</mapper>

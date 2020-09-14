@@ -6,4 +6,5 @@
     <select id="getEmp" resultType="com.ttc.po.Emp">
         SELECT * FROM `Emp` e  where  e.empid = 1
     </select>
+
 </mapper>
